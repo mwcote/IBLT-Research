@@ -249,6 +249,8 @@ IBLT IBLT::operator-(const IBLT& other) const
         e1.count -= e2.count;
         e1.keySum ^= e2.keySum;
         e1.keyCheck ^= e2.keyCheck;
+        e1.valueCheck ^= e2.valueCheck;
+
         if (e1.empty()) {
             e1.valueSum.clear();
         }

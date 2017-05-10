@@ -17,6 +17,8 @@ using namespace std;
 
 int main()
 {
+  cout << "Results of IBLT_Test3.cpp on Modified IBLT Program" << endl;
+  cout << "Testing IBLT Subtraction" << endl;
   int numEntries = 100;
 
   //creates multidimensioanl arrays of key/value pairs for each iblt
@@ -66,7 +68,7 @@ int main()
 
   std::set<std::pair<uint64_t, std::vector<uint8_t> > >::iterator it;
 
-  cout << "Keys only in A" << endl;
+  cout << "Keys only in A:" << endl;
 
   //iterates through the set of keys only in A
   for (it = positiveValuesC.begin(); it != positiveValuesC.end(); it++)
@@ -76,7 +78,7 @@ int main()
     cout << key << endl;
   }
 
-  cout << "Keys Only in B" << endl;
+  cout << "Keys Only in B:" << endl;
 
   //iterates through the set of keys only in B
   for (it = negativeValuesC.begin(); it != negativeValuesC.end(); it++)
@@ -86,13 +88,13 @@ int main()
     cout << key << endl;
   }
 
-  cout << "Official Differences" << endl;
+  cout << "Official set of keys not found in both sets, determined by manually comparing the two arrays of key/value pairs:" << endl;
 
   //lists the actual differences
-  for (int i = 0; i < numEntries; i++)
+  for (int i = 0; i < differences.size(); i++)
   {
     cout << differences[i][0] << endl;
   }
 
-//  return 0;
+  return 0;
 }

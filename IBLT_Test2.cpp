@@ -20,6 +20,9 @@ using namespace std;
 
 int main()
 {
+  cout << "Results of IBLT_Test2.cpp on Modified IBLT program" << endl;
+  cout << "Testing success of list entries" << endl;
+  
   int numEntries;
 
   int numSuccess;

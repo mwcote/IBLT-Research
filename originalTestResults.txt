@@ -1,0 +1,35 @@
+Results of IBLT_Test3.cpp on original IBLT Program
+Testing IBLT Subtraction
+
+Successful listing of entries out of IBLT C Made from A- B
+Expected five extra keys in A that are not in B and 5 extra keys in B that are not in B
+Keys only in A:
+0
+1
+2
+3
+4
+Keys Only in B:
+100
+101
+102
+103
+104
+Official set of keys not found in both sets, determined by manually comparing the two arrays of key/value pairs:
+0
+1
+2
+3
+4
+100
+101
+102
+103
+104
+
+Results of IBLT_Test4.cpp on original IBLT Program
+Testing basic IBLT operations
+Inserting and Getting Entries Successful
+Erasing and Attempting To Get Successful
+Inserting and Getting Entries Successful
+Get for non-existent entries while IBLT still has entries = successful

@@ -1,0 +1,130 @@
+Results of IBLT_Test2.cpp on Modified IBLT program
+Testing success of list entries
+
+NumEntries = 1. Num Successes = 1000
+NumEntries = 2. Num Successes = 954
+NumEntries = 3. Num Successes = 1000
+NumEntries = 4. Num Successes = 1000
+NumEntries = 5. Num Successes = 1000
+NumEntries = 6. Num Successes = 999
+NumEntries = 7. Num Successes = 983
+NumEntries = 8. Num Successes = 888
+NumEntries = 9. Num Successes = 1000
+NumEntries = 10. Num Successes = 999
+NumEntries = 11. Num Successes = 1000
+NumEntries = 12. Num Successes = 1000
+NumEntries = 13. Num Successes = 971
+NumEntries = 14. Num Successes = 956
+NumEntries = 15. Num Successes = 1000
+NumEntries = 16. Num Successes = 1000
+NumEntries = 17. Num Successes = 1000
+NumEntries = 18. Num Successes = 964
+NumEntries = 19. Num Successes = 314
+NumEntries = 20. Num Successes = 1000
+NumEntries = 21. Num Successes = 1000
+NumEntries = 22. Num Successes = 1000
+NumEntries = 23. Num Successes = 1000
+NumEntries = 24. Num Successes = 1000
+NumEntries = 25. Num Successes = 1000
+NumEntries = 26. Num Successes = 1000
+NumEntries = 27. Num Successes = 1000
+NumEntries = 28. Num Successes = 1000
+NumEntries = 29. Num Successes = 1000
+NumEntries = 30. Num Successes = 1000
+NumEntries = 31. Num Successes = 1000
+NumEntries = 32. Num Successes = 1000
+NumEntries = 33. Num Successes = 1000
+NumEntries = 34. Num Successes = 989
+NumEntries = 35. Num Successes = 1000
+NumEntries = 36. Num Successes = 1000
+NumEntries = 37. Num Successes = 1000
+NumEntries = 38. Num Successes = 1000
+NumEntries = 39. Num Successes = 1000
+NumEntries = 40. Num Successes = 1000
+NumEntries = 41. Num Successes = 1000
+NumEntries = 42. Num Successes = 1000
+NumEntries = 43. Num Successes = 1000
+NumEntries = 44. Num Successes = 1000
+NumEntries = 45. Num Successes = 1000
+NumEntries = 46. Num Successes = 1000
+NumEntries = 47. Num Successes = 1000
+NumEntries = 48. Num Successes = 1000
+NumEntries = 49. Num Successes = 1000
+NumEntries = 50. Num Successes = 1000
+NumEntries = 51. Num Successes = 1000
+NumEntries = 52. Num Successes = 1000
+NumEntries = 53. Num Successes = 1000
+NumEntries = 54. Num Successes = 1000
+NumEntries = 55. Num Successes = 1000
+NumEntries = 56. Num Successes = 1000
+NumEntries = 57. Num Successes = 1000
+NumEntries = 58. Num Successes = 1000
+NumEntries = 59. Num Successes = 1000
+NumEntries = 60. Num Successes = 1000
+NumEntries = 61. Num Successes = 1000
+NumEntries = 62. Num Successes = 1000
+NumEntries = 63. Num Successes = 1000
+NumEntries = 64. Num Successes = 1000
+NumEntries = 65. Num Successes = 1000
+NumEntries = 66. Num Successes = 1000
+NumEntries = 67. Num Successes = 1000
+NumEntries = 68. Num Successes = 1000
+NumEntries = 69. Num Successes = 1000
+NumEntries = 70. Num Successes = 1000
+NumEntries = 71. Num Successes = 1000
+NumEntries = 72. Num Successes = 1000
+NumEntries = 73. Num Successes = 1000
+NumEntries = 74. Num Successes = 1000
+NumEntries = 75. Num Successes = 1000
+NumEntries = 76. Num Successes = 1000
+NumEntries = 77. Num Successes = 1000
+NumEntries = 78. Num Successes = 1000
+NumEntries = 79. Num Successes = 1000
+NumEntries = 80. Num Successes = 1000
+NumEntries = 81. Num Successes = 1000
+NumEntries = 82. Num Successes = 1000
+NumEntries = 83. Num Successes = 1000
+NumEntries = 84. Num Successes = 1000
+NumEntries = 85. Num Successes = 1000
+NumEntries = 86. Num Successes = 1000
+NumEntries = 87. Num Successes = 1000
+NumEntries = 88. Num Successes = 601
+NumEntries = 89. Num Successes = 1000
+NumEntries = 90. Num Successes = 1000
+NumEntries = 91. Num Successes = 1000
+NumEntries = 92. Num Successes = 1000
+NumEntries = 93. Num Successes = 987
+NumEntries = 94. Num Successes = 996
+NumEntries = 95. Num Successes = 990
+NumEntries = 96. Num Successes = 993
+NumEntries = 97. Num Successes = 1000
+NumEntries = 98. Num Successes = 1000
+NumEntries = 99. Num Successes = 1000
+NumEntries = 100. Num Successes = 1000
+
+Results of IBLT_Test3.cpp on Modified IBLT Program
+Testing IBLT Subtraction
+Keys only in A:
+1
+2
+Keys Only in B:
+100
+101
+Official set of keys not found in both sets, determined by manually comparing the two arrays of key/value pairs:
+0
+1
+2
+3
+4
+100
+101
+102
+103
+104
+
+Results of IBLT_Test4.cpp on modified IBLT Program
+Testing basic IBLT operations
+Inserting and Getting Entries Successful
+Erasing and Attempting To Get Successful
+Inserting and Getting Entries Successful
+Get for non-existent entries while IBLT still has entries = successful

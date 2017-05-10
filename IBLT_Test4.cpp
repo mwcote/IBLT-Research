@@ -16,6 +16,9 @@ using namespace std;
 
 int main()
 {
+  cout << "Results of IBLT_Test4.cpp on modified IBLT Program" << endl;
+  cout << "Testing basic IBLT operations" << endl;
+
   int numEntries = 20;
 
   //creates multidimensioanl array of key/value pairs
