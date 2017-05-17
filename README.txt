@@ -26,7 +26,8 @@ modifiedTestResults.txt - Text file containing the results of IBLT_Test2, 3, and
 originalTestResults.txt -Text file containing the results of IBLT_Test3, and 4 on the original IBLT implementation
 
 Compilation instructions:
-In order to create an executable, the files iblt.cpp/iblt2.cpp, murmurhash3.cpp, utilstrencodings.cpp, testFunctions.cpp, and one of the test programs (ex: IBLT_Test1.cpp)
-must all be compiled together.
+In order to run the new test programs, the files iblt.cpp/iblt2.cpp, murmurhash3.cpp, utilstrencodings.cpp, testFunctions.cpp, and one of the test programs (ex: IBLT_Test1.cpp) must all be compiled together.
+
+To run Andresen's test program, the files iblt.cpp, murmurhash3.cpp, utilstrencodings.cpp, and iblt_test.cpp must be compiled together.
 
 This material is based upon work supported by the National Science Foundation under Grant No. CCF-1563753. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation
